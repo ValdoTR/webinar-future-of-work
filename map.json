@@ -12,7 +12,7 @@
                 {
                  "name":"code",
                  "type":"string",
-                 "value":"0000"
+                 "value":"1337"
                 }, 
                 {
                  "name":"doorVariable",
