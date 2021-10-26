@@ -85,14 +85,9 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"jitsiInterfaceConfig",
+                         "name":"openWebsite",
                          "type":"string",
-                         "value":"{ \"DEFAULT_BACKGROUND\": \"#ab504c\" }"
-                        }, 
-                        {
-                         "name":"jitsiRoom",
-                         "type":"string",
-                         "value":"jitsiBACKSTAGEmeeting"
+                         "value":"https:\/\/www.youtube.com\/embed\/xm3YgoEiEDc"
                         }],
                  "type":"tilelayer",
                  "visible":true,
