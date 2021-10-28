@@ -84,7 +84,7 @@
                                 {
                                  "name":"exitUrl",
                                  "type":"string",
-                                 "value":"future.json"
+                                 "value":"\/@\/liferay\/dev24\/future"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -102,7 +102,7 @@
                                 {
                                  "name":"exitUrl",
                                  "type":"string",
-                                 "value":"map.json#entryMainRoom"
+                                 "value":"\/@\/liferay\/dev24\/event#entryMainRoom"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -120,7 +120,7 @@
                                 {
                                  "name":"exitUrl",
                                  "type":"string",
-                                 "value":"meeting.json"
+                                 "value":"\/@\/liferay\/dev24\/meeting"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -608,17 +608,17 @@
         {
          "name":"mapImage",
          "type":"string",
-         "value":"map.png"
+         "value":"mainroom.png"
         }, 
         {
          "name":"mapLink",
          "type":"string",
-         "value":"https:\/\/thecodingmachine.github.io\/workadventure-map-starter-kit\/map.json"
+         "value":"https:\/\/thecodingmachine.github.io\/workadventure-map-starter-kit\/mainroom.json"
         }, 
         {
          "name":"mapName",
          "type":"string",
-         "value":"DEV 24 EVENT"
+         "value":"Mainroom"
         }, 
         {
          "name":"script",
