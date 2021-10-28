@@ -39,7 +39,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"meeting.json"
+                         "value":"\/@\/liferay\/dev24\/meeting"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -496,17 +496,17 @@
         {
          "name":"mapImage",
          "type":"string",
-         "value":"map.png"
+         "value":"backstage.png"
         }, 
         {
          "name":"mapLink",
          "type":"string",
-         "value":"https:\/\/thecodingmachine.github.io\/workadventure-map-starter-kit\/map.json"
+         "value":"https:\/\/thecodingmachine.github.io\/workadventure-map-starter-kit\/backstage.json"
         }, 
         {
          "name":"mapName",
          "type":"string",
-         "value":"DEV 24 EVENT"
+         "value":"Backstage"
         }, 
         {
          "name":"script",
