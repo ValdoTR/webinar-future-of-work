@@ -116,7 +116,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"mainroom.json#entryFuture"
+                 "value":"\/@\/liferay\/dev24\/mainroom#entryFuture"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -260,17 +260,17 @@
         {
          "name":"mapImage",
          "type":"string",
-         "value":"map.png"
+         "value":"future.png"
         }, 
         {
          "name":"mapLink",
          "type":"string",
-         "value":"https:\/\/thecodingmachine.github.io\/workadventure-map-starter-kit\/map.json"
+         "value":"https:\/\/thecodingmachine.github.io\/workadventure-map-starter-kit\/future.json"
         }, 
         {
          "name":"mapName",
          "type":"string",
-         "value":"DEV 24 EVENT"
+         "value":"Future"
         }, 
         {
          "name":"script",

@@ -68,7 +68,7 @@
                                 {
                                  "name":"exitUrl",
                                  "type":"string",
-                                 "value":"mainroom.json#entryEntrance"
+                                 "value":"\/@\/liferay\/dev24\/mainroom#entryEntrance"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -625,7 +625,7 @@
         {
          "name":"mapName",
          "type":"string",
-         "value":"DEV 24 EVENT"
+         "value":"Event"
         }, 
         {
          "name":"script",

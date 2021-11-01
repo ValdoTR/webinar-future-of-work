@@ -96,7 +96,7 @@
                                 {
                                  "name":"exitUrl",
                                  "type":"string",
-                                 "value":"future.json"
+                                 "value":"/@/liferay/dev24/future"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -114,7 +114,7 @@
                                 {
                                  "name":"exitUrl",
                                  "type":"string",
-                                 "value":"map.json#entryMainRoom"
+                                 "value":"/@/liferay/dev24/event"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -132,7 +132,7 @@
                                 {
                                  "name":"exitUrl",
                                  "type":"string",
-                                 "value":"meeting.json"
+                                 "value":"/@/liferay/dev24/meeting"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
